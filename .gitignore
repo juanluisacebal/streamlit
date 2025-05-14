@@ -2,3 +2,5 @@ logs/
 .env
 app1.py
 app2.py
+questions/
+users.db
